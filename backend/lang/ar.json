@@ -1,0 +1,11 @@
+{
+  "The given data was invalid.": "يرجى التحقق من البيانات المدخلة.",
+  "These credentials do not match our records.": "بيانات الدخول غير صحيحة.",
+  "Reset Password Notification": "إشعار إعادة تعيين كلمة المرور",
+  "You are receiving this email because we received a password reset request for your account.": "وصلتك هذه الرسالة لطلب إعادة تعيين كلمة مرور حسابك.",
+  "Reset Password": "إعادة تعيين كلمة المرور",
+  "This password reset link will expire in :count minutes.": "ستنتهي صلاحية الرابط خلال :count دقيقة.",
+  "If you did not request a password reset, no further action is required.": "إذا لم تطلبي إعادة التعيين، فلا يلزم اتخاذ إجراء.",
+  "Hello!": "مرحبًا!",
+  "Regards,": "مع التحية،"
+}
